@@ -1,4 +1,4 @@
-# Probability Syllabus
+# Mathematical Statistics Syllabus
 MATH 452/552 - 01
 
 Spring 2022
