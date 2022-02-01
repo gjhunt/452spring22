@@ -9,7 +9,7 @@
 No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz problem (QP) | 
 --- | --- | --- | --- | --- | --- | --- | --- | 
 1|R 1-27 | random samples and statistics |  C+B 5.1-5.2 (to Thrm. 5.2.8), 5.4 (to Ex. 5.4.5) | [SP1](sp/sp1.pdf) | [notes](lns/lec1.pdf)| [vid](https://youtu.be/xkkbGxziTFQ)| [QP 1](qp/qp1.pdf) due Feb 3 | 
-2|T 2-1 | normal statistics and exponential families |  C+B 5.2 (Thrm. 5.2.11 to end), 5.3 | --- | [notes](lns/lec2.pdf)| [vid]()|  | 
+2|T 2-1 | normal statistics and exponential families |  C+B 5.2 (Thrm. 5.2.11 to end), 5.3 | --- | [notes](lns/lec2.pdf)| [vid](https://youtu.be/5JtpGufyexA)|  | 
 3|R 2-3 | sufficiency | C+B 6.1,6.2 (through Ex. 6.2.10) | [SP2](sp/sp2.pdf)| [notes](lns/lec3.pdf)| [vid]()| [QP 2](qp/qp2.pdf) due Feb 10 | 
 4|T 2-8 | MOMs | C+B 6.2 (through Defn 6.2.16), 7.1, 7.2 (through Ex. 7.2.2) | --- | [notes](lns/lec4.pdf)| [vid]() | --- | 
 5|R 2-10 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid]()| [QP 3](qp/qp3.pdf) due Feb 17 | 
