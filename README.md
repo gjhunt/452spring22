@@ -3,6 +3,7 @@
 ## syllabus and outline
 
 - [syllabus](docs/syllabus.md)
+- [table of common distributions](docs/distab.pdf)
 
 ## lecture notes and videos
 
