@@ -4,6 +4,7 @@
 
 - [syllabus](docs/syllabus.md)
 - [table of common distributions](docs/distab.pdf)
+- [condensed table of common distributions](docs/distab_small.pdf)
 
 ## lecture notes and videos
 
@@ -13,7 +14,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 2|T 2-1 | normal statistics and exponential families |  C+B 5.2 (Thrm. 5.2.11 to end), 5.3 | --- | [notes](lns/lec2.pdf)| [vid](https://youtu.be/5JtpGufyexA)|  | 
 3|R 2-3 | sufficiency | C+B 6.1,6.2 (through Ex. 6.2.10) | [SP2](sp/sp2.pdf)| [notes](lns/lec3.pdf)| [vid](https://youtu.be/al3vcwkMxZQ)| [QP 2](qp/qp2.pdf) due Feb 10 | 
 4|T 2-8 | MOMs | C+B 6.2 (through Defn 6.2.16), 7.1, 7.2 (through Ex. 7.2.2) | --- | [notes](lns/lec4.pdf)| [vid](https://youtu.be/KeJHTbV0TlM) | --- | 
-5|R 2-10 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid]()| [QP 3](qp/qp3.pdf) due Feb 17 | 
+5|R 2-10 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid](https://youtu.be/p9g-DD7VajE)| [QP 3](qp/qp3.pdf) due Feb 17 | 
 6|T 2-15 | more MLEs | C+B 7.2.2 (through Ex. 7.2.13) | --- | [notes](lns/lec6.pdf) | [vid]() | --- |
 7|R 2-17 | evaluation | C+B 7.3.1 (through Ex. 7.3.4), 7.3.2 (through Defn 7.3.7)  | [SP4](sp/sp4.pdf) | [notes](lns/lec7.pdf)| [vid]()| [QP 4](qp/qp4.pdf) due Feb 24 | 
 8|T 2-22 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid]()| --- |
