@@ -17,7 +17,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 5|R 2-10 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid](https://youtu.be/p9g-DD7VajE)| [QP 3](qp/qp3.pdf) due Feb 17 | 
 6|T 2-15 | more MLEs | C+B 7.2.2 (through Ex. 7.2.13) | --- | [notes](lns/lec6.pdf) | [vid](https://youtu.be/XCFg9bUEX28) | --- |
 7|R 2-17 | evaluation | C+B 7.3.1 (through Ex. 7.3.4), 7.3.2 (through Defn 7.3.7)  | [SP4](sp/sp4.pdf) | [notes](lns/lec7.pdf)| [vid](https://youtu.be/GSb8XQMIEL0)| [QP 4](qp/qp4.pdf) due Feb 24 | 
-8|T 2-22 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid]()| --- |
+8|T 2-22 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid](https://youtu.be/Lo3w4WUHfbg)| --- |
 9|R 2-24 | fisher info | 7.3.2 (through Ex. 7.3.12) | [SP5](sp/sp5.pdf)| [notes](lns/lec9.pdf)| [vid]()| [QP 5](qp/qp5.pdf) due Mar 3 | 
 . |T 3-1 | **midterm 1 (lectures 1-6)**  |
 10|R 3-3 | CRLB | 7.3.2 (through Ex. 7.3.14) | [SP6](sp/sp6.pdf) | [notes](lns/lec10.pdf)| [vid]() | [QP 6](qp/qp6.pdf) due Mar 10 | 
