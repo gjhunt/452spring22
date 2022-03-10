@@ -22,7 +22,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . |T 3-1 | **midterm 1 (lectures 1-6)**  |
 10|R 3-3 | iterated expectation and Rao-Blackwell | 7.3.3 (through Ex. 7.3.18) | [SP6](sp/sp6.pdf) | [notes](lns/lec10.pdf)| [vid](https://youtu.be/6MnFoT0-oa8) | [QP 6](qp/qp6.pdf) due Mar 10 | 
 11|T 3-8 | Lehmann-Scheffe and inequalities | 7.3.3 (through Thrm 7.3.19) | --- | [notes](lns/lec11.pdf)| [vid](https://youtu.be/YtYNRzCjxGU)| --- | 
-12|R 3-10 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid]()| [QP7](qp/qp7.pdf) due Mar 24 | 
+12|R 3-10 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid](https://youtu.be/P6_WACCB76k)| [QP7](qp/qp7.pdf) due Mar 24 | 
 .|T  3-15 | spring break |
 .|R  3-17 | spring break |
 13|T 3-22 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid]() | --- | 
