@@ -27,7 +27,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 .|R  3-17 | spring break |
 13|T 3-22 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid](https://youtu.be/ReaNVCFQu0Q) | --- | 
 14|R 3-24 | CLT | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec14.pdf)| [vid](https://youtu.be/BzLluKI1ZK4) | [QP8](qp/qp8.pdf) due Mar 31 | 
-15|T 3-29 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid]()| --- | 
+15|T 3-29 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid](https://youtu.be/1jWXHRek_6I)| --- | 
 16|R 3-31 | review | --- | --- | --- | --- | --- | 
 . |T 4-5 | **midterm 2 (lecture 7-14)** | 
 17|R 4-7 | MLE Asymptotics | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec16.pdf) | [vid]()| [QP9](qp/qp9.pdf) due Apr 14 | 
