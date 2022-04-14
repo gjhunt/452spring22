@@ -32,7 +32,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . |T 4-5 | **midterm 2 (lecture 7-14)** | 
 17|R 4-7 | MLE Asymptotics | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec17.pdf) | [vid](https://youtu.be/PcbboyCt7T4)| [QP9](qp/qp9.pdf) due Apr 14 | 
 18|T 4-12 | LRT |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec18.pdf)| [vid](https://youtu.be/DTSZB6CK7dc)| --- | 
-19|R 4-14 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec19.pdf)| [vid]()| [QP10](qp/qp10.pdf) due Apr 21 | 
+19|R 4-14 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec19.pdf)| [vid](https://youtu.be/yx8-ZsScVb4)| [QP10](qp/qp10.pdf) due Apr 21 | 
 20|T 4-19 | UMP |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec20.pdf)| [vid]() | --- | 
 21|R 4-21 | Karlin-Rubin | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec21.pdf)| [vid]() | [QP11](qp/qp11.pdf) due Apr 28 | 
 22|T 4-26 | confidence intervals |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | --- | [notes](lns/lec22.pdf)| [vid]() | --- | 
