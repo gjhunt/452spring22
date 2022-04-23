@@ -35,8 +35,8 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 19|R 4-14 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec19.pdf)| [vid](https://youtu.be/yx8-ZsScVb4)| [QP10](qp/qp10.pdf) due Apr 21 | 
 20|T 4-19 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec20.pdf)| [vid](https://youtu.be/PCX3mNm8ddI) | --- | 
 21|R 4-21 | Karlin-Rubin | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec21.pdf)| [vid](https://youtu.be/d25DIgm1Y0E) | [QP11](qp/qp11.pdf) due Apr 28 | 
-22|T 4-26 | confidence intervals |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | --- | [notes](lns/lec22.pdf)| [vid]() | --- | 
-23|R 4-28 | more confidence intervals and p-values | 7.2.3 | [SP11](sp/sp11.pdf) |[notes](lns/lec23.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due May 5 | 
-24|T 5-3 | bayesian inference  |  7.2.3 | --- | [notes](lns/lec24.pdf)| [vid]() | --- | 
+22|T 4-26 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | --- | [notes](lns/lec22.pdf)| [vid](https://youtu.be/zO-gVYCatgE) | --- | 
+23|R 4-28 | test inversion and pivoting | 7.2.3 | [SP11](sp/sp11.pdf) |[notes](lns/lec23.pdf)| [vid](https://youtu.be/x10iZLOgrEY) | [QP12](qp/qp12.pdf) Due May 5 | 
+24|T 5-3 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec24.pdf)| [vid]() | --- | 
 25|R 5-5 | review |   ---  | --- | [notes](lns/lec25.pdf)| [vid]() | --- | 
 
