@@ -38,5 +38,5 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 22|T 4-26 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | --- | [notes](lns/lec22.pdf)| [vid](https://youtu.be/zO-gVYCatgE) | --- | 
 23|R 4-28 | test inversion and pivoting | 7.2.3 | [SP11](sp/sp11.pdf) |[notes](lns/lec23.pdf)| [vid](https://youtu.be/x10iZLOgrEY) | [QP12](qp/qp12.pdf) Due May 5 | 
 24|T 5-3 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec24.pdf)| [vid]() | --- | 
-25|R 5-5 | review |   ---  | --- | [notes](lns/lec25.pdf)| [vid]() | --- | 
+25|R 5-5 | --- |   ---  | --- | ---| --- | --- | 
 
