@@ -37,6 +37,6 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 21|R 4-21 | Karlin-Rubin | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec21.pdf)| [vid](https://youtu.be/d25DIgm1Y0E) | [QP11](qp/qp11.pdf) due Apr 28 | 
 22|T 4-26 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | --- | [notes](lns/lec22.pdf)| [vid](https://youtu.be/zO-gVYCatgE) | --- | 
 23|R 4-28 | test inversion and pivoting | 7.2.3 | [SP11](sp/sp11.pdf) |[notes](lns/lec23.pdf)| [vid](https://youtu.be/x10iZLOgrEY) | [QP12](qp/qp12.pdf) Due May 5 | 
-24|T 5-3 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec24.pdf)| [vid]() | --- | 
+24|T 5-3 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec24.pdf)| [vid](https://youtu.be/p6WpRKAczPE) | --- | 
 25|R 5-5 | --- |   ---  | --- | ---| --- | --- | 
 
